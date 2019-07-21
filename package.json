@@ -2,8 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ShanmugaSundar27.github.io/Todo-List",
-  "dependencies": {
+   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -14,8 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
- 	"deploy": "gh-pages -d build",
+    
   },
   "eslintConfig": {
     "extends": "react-app"
